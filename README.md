@@ -1,10 +1,9 @@
 ## Welcome to my humble code cavern! ✨
-<img src="https://github.com/ameru/ameru/blob/main/assets/cat_typing.gif" width="400px">
-(me, probably as you're reading this)
+<img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="400px">
 
 ### About me🧑:
-I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
-I have done Internship as a FullStack Developer as well as Website Tester.<br/>
+I am Computer Science Engineering student in Chandigarh University.<br/>
+I have done Internship in the domain of Artificial Intelligence and Data Analysis.<br/>
 I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
@@ -19,7 +18,7 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 ![](https://visitor-badge.glitch.me/badge?page_id=kxpil09)
 <br/>
 <details>
-<summary>##Connect with me🤝: </summary>  
+##Connect with me🤝: 
 <br/>
 <a href="https://www.instagram.com/kapil.xo/">
   <img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
@@ -32,14 +31,6 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 </a>
 <br/>
 </details>
-## 🌟 Top Repositories
-
-<a href="https://github.com/kxpil09/Celebrity-Image-Classifier">
-  <img align="center" src=""/>
-</a>
-<a href="https://github.com/kxpil09/-Fashion-MNIST-Data-Classification">
-  <img align="center" src="" />
-</a>    
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=f7a3ed)
@@ -51,3 +42,10 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 ![](https://img.shields.io/badge/Tools-Unity-informational?style=flat&logo=unity&logoColor=white&color=5647ff)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=5647ff)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=5647ff)
+
+<div align="center">
+  
+
+### Show ❤️ by 🌟 my [repositories](https://github.com/kxpil09?tab=repositories)!
+
+</div>

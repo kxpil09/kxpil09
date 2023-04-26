@@ -15,7 +15,7 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I 💖 to code 24x7.
 - 🎢 Profile Visitors Count:  
-![](https://visitor-badge.glitch.me/badge?page_id=kxpil09)
+![Visitor Count](https://profile-counter.glitch.me/kxpil09/count.svg)
 <br/>
 <details>
 ##Connect with me🤝: 

@@ -4,7 +4,7 @@
 ### About me🧑:
 I am Computer Science Engineering student in Chandigarh University.<br/>
 I have done Internship in the domain of Artificial Intelligence and Data Analysis.<br/>
-I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
+I am interested in learning cloud technologies and would 💖 to grow my knowledge in these Technologies.
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 

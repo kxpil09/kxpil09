@@ -1,51 +1,166 @@
-## Welcome to my humble code cavern! ✨
-<img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="400px">
+<div align="center">
 
-### About me🧑:
-I am Computer Science Engineering student in Chandigarh University.<br/>
-I have done Internship in the domain of Artificial Intelligence and Data Analysis.<br/>
-I am interested in learning cloud technologies and would 💖 to grow my knowledge in these Technologies.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc8019,100:f3c334&height=180&section=header&text=Kapil%20Kukreja&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20·%20Backend%20%26%20Applied%20AI&descAlignY=55&descSize=18" width="100%" />
 
-<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
-
-- 🔭 I’m currently working on Game Development & Android Development.
-- 🌱 I’m currently learning core concepts of DSA using C++.
-- 🤔 I’m looking for help with Open source Contribution.
-- 💬 Ask me about Data Structure and Algorithms.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I 💖 to code 24x7.
-- 🎢 Profile Visitors Count:  
-![Visitor Count](https://profile-counter.glitch.me/kxpil09/count.svg)
-<br/>
-<details>
-##Connect with me🤝: 
-<br/>
-<a href="https://www.instagram.com/kapil.xo/">
-  <img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
-</a>
-<a href="https://twitter.com/kapilx09">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
+<a href="https://kapilkukreja.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-kapilkukreja.vercel.app-fc8019?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/kapil-kukreja/">
-  <img align="left" alt="Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="mailto:kapil.kukreja07@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 <br/>
-</details>
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=f7a3ed)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=f7a3ed)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=f7a3ed)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C&logoColor=white&color=f7a3ed)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=FC8019&center=true&vCenter=true&width=620&lines=Associate+Software+Engineer+%40+Infor;Java+%2B+Python+backends%2C+REST+%26+GraphQL+APIs;Building+products+that+ship%2C+not+prototypes;Deterministic+systems+over+black+boxes" />
 
-![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=mysql&logoColor=white&color=5647ff)
-![](https://img.shields.io/badge/Tools-Unity-informational?style=flat&logo=unity&logoColor=white&color=5647ff)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=5647ff)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=5647ff)
+</div>
+
+---
+
+### About
+
+Associate Software Engineer at **Infor**, Hyderabad — building backend and AI features for enterprise HCM platforms serving 1,000+ users. I work mostly in **Java and Python**, on REST/GraphQL APIs, secure authorization, and CI/CD hardening.
+
+Outside work I ship full products end to end: a live algorithmic trading platform with payments and an ML inference engine, and a health-scoring layer for food delivery built on Swiggy's MCP integration.
+
+I care about systems where the reasoning is **auditable** — especially when the output affects someone's money or health. Most of what I build has a deterministic core with the model on the outside, not the other way round.
+
+- Currently at **Infor** on enterprise backend + AI products
+- Recently built **HealthMeal AI** on the Swiggy Builders Club MCP stack
+- Interested in **distributed systems, applied ML, and developer tooling**
+- Ask me about **API design, OAuth flows, MCP integrations, or trading infrastructure**
+- Reach me at **kapil.kukreja07@gmail.com**
+
+---
+
+### Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🍽️ [HealthMeal AI](https://github.com/kxpil09/HealthMeal-AI)
+**Health-aware meal ranking on Swiggy's MCP**
+
+A universal HealthScore re-scored per user against conditions, diet, allergies and budget. Ranks live dishes across every restaurant within 6 km, pairs curries with a base to score a real plate, and traces every claim to the rule that produced it.
+
+Deterministic scoring engine — **128 tests, no LLM in the scoring path**, so a health claim can't be hallucinated.
+
+`Next.js 15` `TypeScript` `MCP` `OAuth 2.1 + PKCE` `Tailwind v4`
+
+[**Live**](https://healthmeal.vercel.app) · [Code](https://github.com/kxpil09/HealthMeal-AI)
+
+</td>
+<td width="50%" valign="top">
+
+#### 📈 TheTradeCartel
+**Realtime algorithmic trading platform**
+
+Options Greeks heatmaps, market-depth charts and live watchlists with sub-second updates. Concurrent FastAPI backend, sub-50ms persistent state for live trades, and PayU billing for premium tiers.
+
+Deployed on GCP with async market-data collectors and an **XGBoost engine over 610K+ historical records**.
+
+`Next.js` `FastAPI` `Supabase` `XGBoost` `GCP` `PayU`
+
+[**Live Demo**](https://kapilkukreja.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📊 SystemLens
+**Infrastructure monitoring platform**
+
+Distributed monitoring collecting 10+ system metrics over WebSockets at up to **500 events/minute**, with automated retries and an alerting engine on configurable thresholds.
+
+Grafana dashboards with historical trend analysis — cut average incident detection time by 30%.
+
+`Python` `FastAPI` `PostgreSQL` `Docker` `WebSocket` `Grafana`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏢 At Infor
+**Enterprise backend & AI products**
+
+Java development across HCM and enterprise AI platforms — optimized REST/GraphQL APIs to cut data-retrieval latency **25%** for 1,000+ users.
+
+Secure conditional deep-linking with RBAC, integration with legacy IBM i systems, and **50+ OWASP vulnerabilities** resolved via HCL AppScan.
+
+`Java` `GraphQL` `AS400` `Python` `DevSecOps`
+
+</td>
+</tr>
+</table>
+
+---
+
+### Tech
 
 <div align="center">
-  
 
-### Show ❤️ by 🌟 my [repositories](https://github.com/kxpil09?tab=repositories)!
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frameworks & Tools**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**AI / ML**
+
+![XGBoost](https://img.shields.io/badge/XGBoost-EB4C42?style=for-the-badge&logo=xgboost&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-5A67D8?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-FC8019?style=for-the-badge)
+
+</div>
+
+---
+
+### Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kxpil09&show_icons=true&hide_border=true&title_color=fc8019&icon_color=fc8019&text_color=8b949e&bg_color=0d1117&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kxpil09&layout=compact&hide_border=true&title_color=fc8019&text_color=8b949e&bg_color=0d1117&langs_count=8" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kxpil09&hide_border=true&background=0d1117&stroke=fc8019&ring=fc8019&fire=f3c334&currStreakLabel=fc8019&sideLabels=8b949e&dates=8b949e" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kxpil09&bg_color=0d1117&color=fc8019&line=f3c334&point=ffffff&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Spot Award Q4 2025** @ Infor · **3rd Prize** SPECATHON National Hackathon · **B.E. CSE**, Chandigarh University (8.18 CGPA)
+
+<br/>
+
+*Open to conversations about backend engineering, applied AI, and anything with a hard correctness requirement.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f3c334,100:fc8019&height=100&section=footer" width="100%" />
 
 </div>

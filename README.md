@@ -67,7 +67,7 @@ Deployed on GCP with async market-data collectors and an **XGBoost engine over 6
 
 `Next.js` `FastAPI` `Supabase` `XGBoost` `GCP` `PayU`
 
-[**Live Demo**](https://kapilkukreja.vercel.app)
+[**Live Demo**](https://thetradecartel.in)
 
 </td>
 </tr>

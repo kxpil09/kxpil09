@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc8019,100:f3c334&height=180&section=header&text=Kapil%20Kukreja&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20·%20Backend%20%26%20Applied%20AI&descAlignY=55&descSize=18" width="100%" />
+# Kapil Kukreja
+
+**Software Engineer — Backend & Applied AI**
 
 <a href="https://kapilkukreja.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-kapilkukreja.vercel.app-fc8019?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -12,9 +14,9 @@
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=FC8019&center=true&vCenter=true&width=620&lines=Associate+Software+Engineer+%40+Infor;Java+%2B+Python+backends%2C+REST+%26+GraphQL+APIs;Building+products+that+ship%2C+not+prototypes;Deterministic+systems+over+black+boxes" />
+**Java + Python backends · REST & GraphQL APIs · Deterministic systems over black boxes**
 
 </div>
 
@@ -134,23 +136,6 @@ Secure conditional deep-linking with RBAC, integration with legacy IBM i systems
 
 ---
 
-### Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kxpil09&show_icons=true&hide_border=true&title_color=fc8019&icon_color=fc8019&text_color=8b949e&bg_color=0d1117&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kxpil09&layout=compact&hide_border=true&title_color=fc8019&text_color=8b949e&bg_color=0d1117&langs_count=8" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kxpil09&hide_border=true&background=0d1117&stroke=fc8019&ring=fc8019&fire=f3c334&currStreakLabel=fc8019&sideLabels=8b949e&dates=8b949e" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kxpil09&bg_color=0d1117&color=fc8019&line=f3c334&point=ffffff&area=true&hide_border=true" width="100%" />
-
-</div>
-
 ---
 
 <div align="center">
@@ -161,6 +146,5 @@ Secure conditional deep-linking with RBAC, integration with legacy IBM i systems
 
 *Open to conversations about backend engineering, applied AI, and anything with a hard correctness requirement.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f3c334,100:fc8019&height=100&section=footer" width="100%" />
 
 </div>
